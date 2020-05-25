@@ -1,0 +1,13 @@
+id: 1234068
+name: '&b&l贷款'
+url: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/oLSntIzedWbVBRp.DnTGpzn3gUTAqVjwdiWp582n*7g!/r/dIQAAAAAAAAA'
+url2: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/oLSntIzedWbVBRp.DnTGpzn3gUTAqVjwdiWp582n*7g!/r/dIQAAAAAAAAA'
+x: 84
+y: 222
+width: 35
+high: 35
+commands:
+asop: false
+close: false
+to: 'Y3银行系统'
+hovertext: 'Y3银行系统功能未开放'

@@ -1,0 +1,13 @@
+id: 1234062
+name: '%存_选择%'
+url: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/W4CTXVeL5SHwiZ2psF.NVj4ZjM3encBg1eP*7O6Jb7g!/r/dL8AAAAAAAAA'
+url2: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/W4CTXVeL5SHwiZ2psF.NVj4ZjM3encBg1eP*7O6Jb7g!/r/dL8AAAAAAAAA'
+x: 183
+y: 130
+width: 31
+high: 13
+commands:
+- '银行 %player% 切换模式 存'
+asop: true
+close: false
+to: 'Y3银行系统'

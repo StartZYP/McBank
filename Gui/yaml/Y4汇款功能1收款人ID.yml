@@ -1,0 +1,13 @@
+id: 1234078
+name: ''
+url: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/W4CTXVeL5SHwiZ2psF.NVj4ZjM3encBg1eP*7O6Jb7g!/r/dL8AAAAAAAAA'
+url2: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/W4CTXVeL5SHwiZ2psF.NVj4ZjM3encBg1eP*7O6Jb7g!/r/dL8AAAAAAAAA'
+x: 82
+y: 152
+width: 119
+high: 16
+commands:
+- '银行 %player% 汇款给谁1'
+asop: true
+close: true
+to: '-'

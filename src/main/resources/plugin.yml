@@ -1,0 +1,6 @@
+name: MCbank
+main: com.ipedg.minecraft.MCbank
+version: 2.5.0
+depend: [VexView,Vault]
+commands:
+  mcbank:

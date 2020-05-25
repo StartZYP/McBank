@@ -1,0 +1,13 @@
+id: 1234066
+name: '&b&l存取操作'
+url: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/oLSntIzedWbVBRp.DnTGpzn3gUTAqVjwdiWp582n*7g!/r/dIQAAAAAAAAA'
+url2: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/oLSntIzedWbVBRp.DnTGpzn3gUTAqVjwdiWp582n*7g!/r/dIQAAAAAAAAA'
+x: 195
+y: 166
+width: 46
+high: 35
+commands:
+- '银行 %player%'
+asop: true
+close: true
+to: '-'

@@ -1,0 +1,13 @@
+id: 1234075
+name: '&b确认汇款'
+url: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/oLSntIzedWbVBRp.DnTGpzn3gUTAqVjwdiWp582n*7g!/r/dIQAAAAAAAAA'
+url2: 'http://r.photo.store.qq.com/psb?/V10xxRN10SsWhU/oLSntIzedWbVBRp.DnTGpzn3gUTAqVjwdiWp582n*7g!/r/dIQAAAAAAAAA'
+x: 148
+y: 275
+width: 54
+high: 35
+commands:
+- '银行 %player% 确认汇款'
+asop: true
+close: false
+to: 'Y4汇款功能'
